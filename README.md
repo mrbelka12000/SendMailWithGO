@@ -2,7 +2,7 @@
 
 ### A service that requests mail confirmation
 
-##Usage
+## Usage
 ```azure
 go run main.go
 ```
